@@ -22,6 +22,10 @@ Puedes ingresar a https://qEdu.cl y empezar a aprender desde ya!
 - **Testing**: Gherkin
 - **Otros**: Utilización de librerías y frameworks modernos para asegurar una experiencia fluida y robusta.
 
+## Basado en Moodle 
+
+qEdu se ha construido en base a Moodle 4.4.1, puedes encontrar más información sobre Moodle en https://moodle.org/.
+
 ## Derechos 
 
 El contenido de qEdu está disponible para el acceso de todos, sin embargo se reserva los derechos del contenido mostrado.
