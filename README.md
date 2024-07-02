@@ -11,7 +11,7 @@ Puedes ingresar a https://qEdu.cl y empezar a aprender desde ya!
 ## Características
 
 - **Herramientas Interactivas**: Durante los cursos encontrarás actividades dinámicas, pruébalas!
-- **Lenguaje Español**: Los cursos dentro de qEdu serán siempre en español.
+- **Lenguaje Español**: Los cursos dentro de qEdu están disponibles en idioma español.
 - **Practica con Qiskit**: En el curso práctico aprenderás como utilizar Qiskit, un lenguaje de programación cuántico.
 - **Gratis y sin fines de lucro**: qEdu es una plataforma sin fines de lucro, todo el contenido es accesible de manera gratuita.
 
