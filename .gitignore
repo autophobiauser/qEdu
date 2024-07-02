@@ -1,0 +1,57 @@
+# Ignorar directorios de datos
+qedudata/
+cache/
+localcache/
+sessions/
+temp/
+trashdir/
+
+# Ignorar configuraciones locales
+config.php
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos temporales
+*.swp
+*.bak
+*.tmp
+*.temp
+~*
+
+# Ignorar archivos de paquetes
+vendor/
+node_modules/
+
+# Ignorar archivos de entornos de desarrollo
+.env
+.idea/
+.vscode/
+
+# Ignorar archivos generados por Composer
+composer.lock
+
+# Ignorar archivos de pruebas y documentación
+/tests/behat/wip_feature_flags/
+tests/behat/editor_tinymce/plugin/
+tests/behat/mod/assign/
+tests/behat/repository/
+tests/behat/theme/boost/
+tests/behat/theme/classic/
+tests/behat/theme/factory/
+tests/behat/theme/snap/
+
+# Ignorar configuraciones específicas del IDE
+*.iml
+*.ipr
+*.iws
+
+# Ignorar archivos de respaldo y configuraciones locales específicas
+backup/
+backupdata/
+mybackups/
+
