@@ -6,7 +6,7 @@ qEdu es una plataforma educativa diseñada para enseñar computación cuántica 
 ## Prueba qEdu!
 
 Puedes ingresar a https://qEdu.cl y empezar a aprender desde ya!
-**qEdu se encuentra en desarrollo y es posible que encuentres caracteristicas/contenido que aún no ha sido implementado** 
+**( qEdu se encuentra en desarrollo y es posible que encuentres caracteristicas/contenido que aún no ha sido implementado )** 
 
 ## Características
 
